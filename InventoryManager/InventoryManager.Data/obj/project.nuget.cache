@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5kWGS3aXUATNcM45w70eu6y26B/wG3OiTcXbEYUfohhnjyhfgN5lm2OrYwEcb75CvA0hzddaZnq6tf9G6fCfIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bigbr\\source\\repos\\InventoryManager\\InventoryManager.Data\\InventoryManager.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bigbr\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
+    "C:\\Users\\Bigbr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bigbr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Bigbr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Bigbr\\.nuget\\packages\\propertychanged.fody\\3.3.1\\propertychanged.fody.3.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
